@@ -12,4 +12,4 @@ It Will Be A Batch (*.bat*) Installer So It Could Be A Setup Wizard Too!
 So Yeah
                                                                
                                                                
-                                                                Yugandar's World Animator
+  By Yugandar!
