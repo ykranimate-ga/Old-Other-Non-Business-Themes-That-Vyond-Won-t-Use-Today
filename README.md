@@ -6,7 +6,7 @@ The Business Themes Consist Of...
 *Stickly Business*
 Business Models... *
 So Yeah...
-It Will Be A Batch (*.bat*) Installer So It Could Be A Setup Wizard Too!
+It Will Be A Batch (*.bat*) 
 
 So Yeah
                                                                
