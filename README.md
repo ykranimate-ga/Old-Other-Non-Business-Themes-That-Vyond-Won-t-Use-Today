@@ -3,7 +3,6 @@ This Pacakge Could Retrieve Some Old *Business Themes* That Are Not Used In Vyon
 The Business Themes Consist Of...
 
 *Video Infographics*
-*Common Craft®*
 *Stickly Business*
 Business Models... *
 So Yeah...
